@@ -2,7 +2,7 @@
 
 <!--Just a Chill Guy Gif -->
 <div>
-  <video align="right"  src="https://giphy.com/embed/qJzZ4APiDZQuJDY7vh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></video>
+  <img align="right"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxtM3F6MTJvMWo4Ym8yMXJqMHo2Z2k0c2oxaXp1YWMzdDZ4N2l3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
 ## Who am I?
 
