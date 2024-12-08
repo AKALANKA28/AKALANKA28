@@ -1,4 +1,4 @@
-<!--![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png) -->
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png) 
 
 <!--Just a Chill Guy Gif -->
 <div style="display: flex; align-items: center;">
