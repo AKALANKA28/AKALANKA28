@@ -29,7 +29,7 @@ class WhoAmI:
             ]
     
     def getCity():
-        return Homagama_Sri_Lanka()
+        return Homagama_SriLanka()
     
     def Ambitions():
         BuildSomethingGreat()
