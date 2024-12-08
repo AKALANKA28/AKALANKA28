@@ -13,10 +13,10 @@
    currently_learning = "Deepening Knowledge of Cloud Platforms"
    hobbies = [
                'Coding',
-               'Chilling',
-               'Music',
                'Gaming',
-               'Movies'
+               'Music',
+               'Movies',
+               'Chilling'
    	  ]
    
    def getCity():
