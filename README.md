@@ -2,7 +2,7 @@
 
 <!--Just a Chill Guy Gif -->
 <div>
-  <iframe align="right"  src="https://giphy.com/embed/qJzZ4APiDZQuJDY7vh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/chill-guy-new-character-qJzZ4APiDZQuJDY7vh">via GIPHY</a></p>
+  <img align="right"  src="https://giphy.com/embed/qJzZ4APiDZQuJDY7vh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
 ## Who am I?
 
