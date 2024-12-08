@@ -8,16 +8,15 @@
 	current_edu = "SLIIT"
     currently_learning = "Deepening Knowledge of Cloud Platforms"
 	hobbies = [
-        'Coding'
-                         'Chilling',
-	      'Music',
-                         'Chilling',
-			 	'Gaming',
-                         'Chilling',
-        'Movies'
-                         'Chilling',
-
-			]
+                   'Coding'
+                   'Chilling',
+		   'Music',
+		   'Chilling',
+		   'Gaming',
+ 		   'Chilling',
+        	   'Movies'
+  		   'Chilling'
+		  ]
 	
 	def getCity():
 		return Homagama_Sri_Lanka()
