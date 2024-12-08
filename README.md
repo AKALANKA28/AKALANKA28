@@ -1,9 +1,11 @@
 <!--![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png) -->
 
-<br><br>
 
 <!--Just a Chill Guy Gif -->
 <div style="margin-top: 200px;">
+	<br><br>
+<br><br>
+
   <img  align="right"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxtM3F6MTJvMWo4Ym8yMXJqMHo2Z2k0c2oxaXp1YWMzdDZ4N2l3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif" width="380" height="380" style="margin-top: 40px;" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
  
