@@ -15,11 +15,8 @@
                'Coding',
                'Chilling',
    	       'Music',
-   	       'Chilling',
    	       'Gaming',
-	        'Chilling',
        	       'Movies'
- 	       'Chilling'
    	  ]
    
    def getCity():
