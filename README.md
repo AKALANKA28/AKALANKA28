@@ -8,12 +8,12 @@
    current_edu = "SLIIT"
    currently_learning = "Deepening Knowledge of Cloud Platforms"
    hobbies = [
-               'Coding'
+               'Coding',
                'Chilling',
    	       'Music',
    	       'Chilling',
    	       'Gaming',
-	       'Chilling',
+	        'Chilling',
        	       'Movies'
  	       'Chilling'
    	  ]
