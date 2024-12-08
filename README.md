@@ -1,5 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png) 
-
+## Hi there 👋
+ 
 <!--Just a Chill Guy Gif -->
 <div style="display: flex; align-items: center;">
 
