@@ -14,6 +14,7 @@
 
 ## Hi there 👋
 
+</div> 
 
 ```python
 class WhoAmI:
@@ -34,4 +35,3 @@ class WhoAmI:
     def Ambitions():
         BuildSomethingGreat()
  ```
-</div> 
