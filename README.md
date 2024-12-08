@@ -12,7 +12,6 @@
         allowFullScreen>
   </img>
 
-## Hi there 👋
 
 </div> 
 
