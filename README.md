@@ -1,7 +1,7 @@
 ## Hi there 😏
  
 <!--Just a Chill Guy Gif -->
-<div style="display: flex; align-items: end; padding-left: 30px;">
+<div style="display: flex; align-items: end;">
 
   <img  align="right"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxtM3F6MTJvMWo4Ym8yMXJqMHo2Z2k0c2oxaXp1YWMzdDZ4N2l3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif" 
         width="342" 
