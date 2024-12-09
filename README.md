@@ -18,9 +18,9 @@
 ```python
 class WhoAmI:
     user = 'Akalanka Dias'
-    quick_bio = 'Just a Chill Guy'
+    quick_bio = 'Just a chill guy'
     current_edu = "SLIIT"
-    currently_learning = "Deepening Knowledge of Cloud Platforms"
+    currently_learning = "Deepening knowledge of cloud platforms"
     hobbies = [
                 'Coding',
                 'Gaming',
